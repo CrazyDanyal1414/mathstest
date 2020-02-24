@@ -1,0 +1,5 @@
+/Users/danyalqureshi/Projects/mathstest/mathstest/obj/Debug/mathstest.csprojAssemblyReference.cache
+/Users/danyalqureshi/Projects/mathstest/mathstest/bin/Debug/mathstest.exe
+/Users/danyalqureshi/Projects/mathstest/mathstest/bin/Debug/mathstest.pdb
+/Users/danyalqureshi/Projects/mathstest/mathstest/obj/Debug/mathstest.exe
+/Users/danyalqureshi/Projects/mathstest/mathstest/obj/Debug/mathstest.pdb
